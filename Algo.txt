@@ -1,0 +1,4 @@
+Find pizza shop
+Look at menu for selection
+Make selection
+Order pizza
